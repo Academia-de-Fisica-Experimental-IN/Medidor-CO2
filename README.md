@@ -53,10 +53,10 @@ El punto más importante es **cruzar los pines de datos**: el transmisor (TX) de
 
 Este proyecto fue creado con fines educativos y de investigación por:
 
-  * Felipe Colli Olea
+  * [Felipe Colli Olea](https://github.com/F-Patata2008)
   * Benjamin Contreras
   * Manuel Pastenes
-  * Pablo Cruzat
+  * [Pablo Cruzat](https://github.com/PabloCruzval)
 
 Somos miembros de la **Academia de Física Experimental** del **Instituto Nacional de Chile**. Agradecemos a la academia por el apoyo y los recursos proporcionados.
 
